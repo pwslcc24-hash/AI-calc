@@ -1,1 +1,1 @@
-# AI-calc
+# AI-calculator
